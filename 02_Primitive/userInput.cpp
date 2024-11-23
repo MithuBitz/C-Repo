@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+main() {
     
     string cupCakes;
     int numberOfCupCakes;
@@ -17,7 +17,7 @@ int main() {
     cout << "Your favourite cupcake is " << cupCakes << " and you like " << numberOfCupCakes << " cupcake to eat.";
 
     // This prog cannot directly run in VS code so to reslove it we can run it in terminal with command line 
-    // First locate the folder in terminal and then type : ./<executable file name>
+    // First locate the folder in terminal and then type : ./<executable file name not with extention>
 
     return 0;
 }

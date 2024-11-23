@@ -34,3 +34,10 @@
 ## Signed and unsigned integer :
 
 - signed integer accept all positive and negative value for store and in unsigned integer accept only positive value. If we try to store or assign negative number then it will return some garbage number so need to worry in this case because in c++ we can assign any value to any data type, as a result it can return some garbage value which is not efficient programming so we need to avoid it because c++ cannot throw error in this case.
+
+## Operators in C++ :
+
+- Operators are used to perform mathematical operations on operands. Operators in C++ are grouped in categories like arithmetic, bitwise, logical, relational, etc. If we use one oparend then it is called unary, if we use two oparend then it is called binary and for three it is called ternary.
+- Conditional operator are basically use evaluation of expression if it is true then it will return true and if it is false then it will return false.
+
+## Tips: To run c++ file we first go to the folder in terminal and then type `g++ <file name>` and then type `./<file name without extention>`
